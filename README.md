@@ -42,5 +42,3 @@
 <a href="evertonleon07@gmail.com.br">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
-
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
