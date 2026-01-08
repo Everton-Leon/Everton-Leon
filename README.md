@@ -19,15 +19,6 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E34F26)
 
-<h3>Status</h3>
-
-<a href="https://github.com/Everton-Leon" title="Perfil do Everton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-leon&theme=dark" />
-</a>
-<a href="https://github.com/Everton-Leon" title="Perfil do Everton">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-leon&hide=html&layout=compact&theme=dark" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 <a href="https://www.linkedin.com/in/everton-leon-37574b263/">
