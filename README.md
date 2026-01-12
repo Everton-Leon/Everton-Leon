@@ -1,35 +1,31 @@
-<h1>Olá 👋, sou Everton Leon</h1>
+# 👋 Olá, eu sou Everton Leon
 
-<h3>Sobre mim</h3>
+## 💼 Perfil Profissional
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no <a href="https://www.ifg.edu.br/formosa">IFG - Instituto Federal de Goiás</a>.
-- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento Web.
+- 💻 Desenvolvedor Full Stack Júnior na Presidência da República
+- 🌱 Apaixonado por Tecnologia e Desenvolvimento de Sistemas
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Goiás (IFG) – Concluído
 
-<h3>Minhas Skills</h3>
+## 🚀 Habilidades
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00000F)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E34F26)
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
-<h3>Onde me encontrar</h3>
+## 👨‍💻 Linguagens:
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,html,css)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/everton-leon-37574b263/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
-</a>
-<a href="https://github.com/Everton-Leon">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_evertonleon/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-<a href="evertonleon07@gmail.com.br">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
-</a>
+## 🧰 Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=laravel,vuejs,react)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados:
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,discord,figma,postman)](https://skillicons.dev)
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-evertonleon07@gmail.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonleon07@gmail.com.br)](mailto:evertonleon07@gmail.com.br)  
+[![Linkedin: Everton Leon](https://img.shields.io/badge/-everton--leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-leon/)](https://www.linkedin.com/in/everton-leon/)  
+[![Instagram Badge](https://img.shields.io/badge/-_evertonleon-006bed?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_evertonleon/)](https://www.instagram.com/_evertonleon/)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
