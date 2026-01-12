@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Everton Leon
+# 👋 Olá, eu sou {Everton Leon}
 
 ## 💼 Perfil Profissional
 
@@ -25,7 +25,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-evertonleon07@gmail.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evertonleon07@gmail.com.br)](mailto:evertonleon07@gmail.com.br)  
-[![Linkedin: Everton Leon](https://img.shields.io/badge/-everton--leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-leon/)](https://www.linkedin.com/in/everton-leon/)  
+[![Linkedin: Everton Leon](https://img.shields.io/badge/-everton--leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-leon-37574b263/)](https://www.linkedin.com/in/everton-leon-37574b263/)
 [![Instagram Badge](https://img.shields.io/badge/-_evertonleon-006bed?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_evertonleon/)](https://www.instagram.com/_evertonleon/)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
