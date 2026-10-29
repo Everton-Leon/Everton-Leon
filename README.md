@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 Desenvolvedor Full Stack Júnior na Presidência da República
+- 💻 Desenvolvedor Full Stack na Presidência da República
 - 🌱 Apaixonado por Tecnologia e Desenvolvimento de Sistemas
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Goiás (IFG) – Concluído
 
